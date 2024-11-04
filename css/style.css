@@ -1,4 +1,14 @@
-
+.habilidades {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.li
+{
+    margin: 0 1em;
+    list-style: none;
+    
+}
 body{
     background: black;
     color: white;
@@ -325,9 +335,6 @@ body{
     background-position: 0px; /* Centra la imagen en el contenedor */
     background-repeat: no-repeat; /* Evita que la imagen se repita */
 }
-
-
-
 
 
 
